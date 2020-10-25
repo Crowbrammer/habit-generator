@@ -1,0 +1,17 @@
+{
+  "name": "habit-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "prettyquery": "^1.8.3",
+    "sql-escape": "^1.0.1"
+  }
+}
